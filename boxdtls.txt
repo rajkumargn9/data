@@ -1,7 +1,7 @@
 box = {
-    '35048': {'DBox': 12, 'RBox': 13, 'qty': 50, 'DBand': 0, 'RBand': 0, 'trade': None, 'dftboxlen': 0, 'DGreen': 0,
+    '35048': {'DBox': 14, 'RBox': 15, 'qty': 50, 'DBand': 0, 'RBand': 0, 'trade': None, 'dftboxlen': 0, 'DGreen': 0,
               'DRed': 0, 'rltboxlen': 0, 'RGreen': 0, 'RRed': 0, 'trade1': None,'CE_strike':0,'PE_strike':0,'opt_qty':50},
-    '35047': {'DBox': 39, 'RBox': 40, 'qty': 25, 'DBand': 0, 'RBand': 0, 'trade': None, 'dftboxlen': 0, 'DGreen': 0,
+    '35047': {'DBox': 44, 'RBox': 45, 'qty': 25, 'DBand': 0, 'RBand': 0, 'trade': None, 'dftboxlen': 0, 'DGreen': 0,
               'DRed': 0, 'rltboxlen': 0, 'RGreen': 0, 'RRed': 0, 'trade1': None,'CE_strike':0,'PE_strike':0,'opt_qty':25},
     '249131': {'DBox': 30, 'RBox': 40, 'qty': 10, 'DBand': 0, 'RBand': 0, 'trade': None, 'dftboxlen': 0, 'DGreen': 0,
                'DRed': 0, 'rltboxlen': 0, 'RGreen': 0, 'RRed': 0, 'trade1': None,'CE_strike':0,'PE_strike':0,'opt_qty':0},
